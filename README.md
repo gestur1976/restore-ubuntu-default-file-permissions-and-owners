@@ -20,10 +20,15 @@ Open a terminal and type:
 
 sudo -i
 mount /dev/sdx[n] /mnt   # Where sdx[n] is your disk and partition. For example /dev/sda1
+
 mount --rbind /dev /mnt/dev
+
 mount --rbind /sys /mnt/sys
+
 mount --rbinb /proc /mnt/proc
+
 mount --rbind /run /mnt/run
+
 
 Download and unpack file contents to a temporary folder inside /mnt (like /mnt/mnt)
 
