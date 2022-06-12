@@ -29,3 +29,4 @@ while read package; do
         echo "Reinstalling $package:"
         aptitude -y reinstall "$package"
 done
+rm /etc/apt/apt.conf.d/99allow_unauth
