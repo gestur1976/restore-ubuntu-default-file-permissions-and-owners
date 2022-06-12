@@ -19,6 +19,7 @@ If you boot from a live disk (I.E. Ubuntu Desktop Installer), first of all you n
 Open a terminal and type:
 
 sudo -i
+
 mount /dev/sdx[n] /mnt   # Where sdx[n] is your disk and partition. For example /dev/sda1
 
 mount --rbind /dev /mnt/dev
