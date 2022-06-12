@@ -11,7 +11,7 @@ while read package; do
                 threads=$(ps ax | grep -v grep | grep -c process-package.sh)
 #               echo "Active processes $threads"
         done
-        ./process-package.sh "$package" 2>/dev/null & 
+        ./process-package.sh "$package" >/dev/null 2>/dev/null & 
         sleep 0.1
 done
 threads=$(ps ax | grep -v grep | grep -c "process-package.sh")
@@ -22,6 +22,7 @@ while [ "$threads" -gt "1" ]; do
 done
 rm ./*.deb
 apt-get update && apt-get -y --allow-unauthenticated install apt-file aptitude && apt-file update
+echo
 echo "Reinstalling all packages with aptitude to fix remaining permissions and recover accidentally deleted files..."
 apt list --installed | tail -n +2 | cut -d/ -f1 | egrep -v '^$' | \
 while read package; do

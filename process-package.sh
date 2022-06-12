@@ -2,7 +2,7 @@
 PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin"
 package="$1"
 echo "Processing $package:"
-apt-get download "$package" 2>/dev/null
+apt-get download "$package" >/dev/null 2>/dev/null
 filename=$(find -type f | egrep -i "$package")
 dpkg-deb -x "$filename" "${package}/"
 while read line; do
