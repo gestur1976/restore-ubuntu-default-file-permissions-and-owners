@@ -34,8 +34,11 @@ mount --rbind /run /mnt/run
 Download and unpack file contents to a temporary folder inside /mnt (like /mnt/mnt)
 
 chroot /mnt
+
 cd /tmp/restore-ubuntu-default-file-permissions-and-owners
+
 ./initial-setup.sh
+
 ./package-repair.sh
 
 LIMITATIONS:
