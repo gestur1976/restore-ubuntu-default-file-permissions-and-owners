@@ -1,0 +1,114 @@
+W: Se ha marcado el paquete cudnn-local-repo-ubuntu2004-8.4.0.27 para reinstalar, pero el archivo para la versión instalada actual 1.0-1 no está disponible
+W: Se ha marcado el paquete nvidia-docker2 para reinstalar, pero el archivo para la versión instalada actual 2.8.0~rc.1-1 no está disponible
+W: Se ha marcado el paquete libxnvctrl0 para reinstalar, pero el archivo para la versión instalada actual 515.43.04-0ubuntu1 no está disponible
+W: Se ha marcado el paquete libaprutil1-dbd-sqlite3 para reinstalar, pero el archivo para la versión instalada actual 1.6.1-5+ubuntu21.10.1+deb.sury.org+1 no está disponible
+W: Se ha marcado el paquete zfs-test para reinstalar, pero el archivo para la versión instalada actual 2.1.99-1248 no está disponible
+W: Se ha marcado el paquete libnvidia-container1 para reinstalar, pero el archivo para la versión instalada actual 1.10.0~rc.3-1 no está disponible
+W: Se ha marcado el paquete zfs-initramfs para reinstalar, pero el archivo para la versión instalada actual 2.1.99-1248 no está disponible
+W: Se ha marcado el paquete zfs para reinstalar, pero el archivo para la versión instalada actual 2.1.99-1248 no está disponible
+W: Se ha marcado el paquete galera-4 para reinstalar, pero el archivo para la versión instalada actual 26.4.11-impish no está disponible
+W: Se ha marcado el paquete mysql-common para reinstalar, pero el archivo para la versión instalada actual 1:10.5.15+maria~impish no está disponible
+W: Se ha marcado el paquete zfs-dkms para reinstalar, pero el archivo para la versión instalada actual 2.1.99-1248 no está disponible
+W: Se ha marcado el paquete libnvpair3 para reinstalar, pero el archivo para la versión instalada actual 2.1.99-1248 no está disponible
+W: Se ha marcado el paquete getmail para reinstalar, pero el archivo para la versión instalada actual 6.14-1 no está disponible
+W: Se ha marcado el paquete libsepol1 para reinstalar, pero el archivo para la versión instalada actual 3.1-1ubuntu2.1 no está disponible
+W: Se ha marcado el paquete python3-pyzfs para reinstalar, pero el archivo para la versión instalada actual 2.1.99-1248 no está disponible
+W: Se ha marcado el paquete libpcre2-16-0 para reinstalar, pero el archivo para la versión instalada actual 10.39-3+ubuntu21.10.1+deb.sury.org+2 no está disponible
+W: Se ha marcado el paquete kodi-pvr-mythtv para reinstalar, pero el archivo para la versión instalada actual 6:19.0.8-1~impish no está disponible
+W: Se ha marcado el paquete zfs-dracut para reinstalar, pero el archivo para la versión instalada actual 2.1.99-1248 no está disponible
+W: Se ha marcado el paquete libaprutil1 para reinstalar, pero el archivo para la versión instalada actual 1.6.1-5+ubuntu21.10.1+deb.sury.org+1 no está disponible
+W: Se ha marcado el paquete kodi-inputstream-rtmp para reinstalar, pero el archivo para la versión instalada actual 6:19.0.1-1~impish no está disponible
+W: Se ha marcado el paquete nvidia-settings para reinstalar, pero el archivo para la versión instalada actual 515.43.04-0ubuntu1 no está disponible
+W: Se ha marcado el paquete libpcre2-8-0 para reinstalar, pero el archivo para la versión instalada actual 10.39-3+ubuntu21.10.1+deb.sury.org+2 no está disponible
+W: Se ha marcado el paquete libuutil3 para reinstalar, pero el archivo para la versión instalada actual 2.1.99-1248 no está disponible
+W: Se ha marcado el paquete libzfs5-devel para reinstalar, pero el archivo para la versión instalada actual 2.1.99-1248 no está disponible
+W: Se ha marcado el paquete libllvm9 para reinstalar, pero el archivo para la versión instalada actual 1:9.0.1-16.1ubuntu1 no está disponible
+W: Se ha marcado el paquete php-pear para reinstalar, pero el archivo para la versión instalada actual 1:1.10.13+submodules+notgz+2022032202-2+ubuntu21.10.1+deb.sury.org+1 no está disponible
+W: Se ha marcado el paquete libnvidia-container-tools para reinstalar, pero el archivo para la versión instalada actual 1.10.0~rc.3-1 no está disponible
+W: Se ha marcado el paquete dupeguru para reinstalar, pero el archivo para la versión instalada actual 4.2.1-2~ppa~jammy1 no está disponible
+W: Se ha marcado el paquete libzfs5 para reinstalar, pero el archivo para la versión instalada actual 2.1.99-1248 no está disponible
+W: Se ha marcado el paquete libssl1.1 para reinstalar, pero el archivo para la versión instalada actual 1.1.1l-1ubuntu1.2 no está disponible
+W: Se ha marcado el paquete nvidia-container-toolkit para reinstalar, pero el archivo para la versión instalada actual 1.10.0~rc.3-1 no está disponible
+W: Se ha marcado el paquete crda para reinstalar, pero el archivo para la versión instalada actual 4.14+git20191112.9856751-1build1 no está disponible
+W: Se ha marcado el paquete libpcre2-32-0 para reinstalar, pero el archivo para la versión instalada actual 10.39-3+ubuntu21.10.1+deb.sury.org+2 no está disponible
+W: Se ha marcado el paquete libzpool5 para reinstalar, pero el archivo para la versión instalada actual 2.1.99-1248 no está disponible
+W: Se ha marcado el paquete libaprutil1-ldap para reinstalar, pero el archivo para la versión instalada actual 1.6.1-5+ubuntu21.10.1+deb.sury.org+1 no está disponible
+W: Se ha marcado el paquete goaccess para reinstalar, pero el archivo para la versión instalada actual 1:1.5.5-focal no está disponible
+W: Se ha marcado el paquete cuda-keyring para reinstalar, pero el archivo para la versión instalada actual 1.0-1 no está disponible
+E: No se puede encontrar una fuente para descargar la versión «10.39-3+ubuntu21.10.1+deb.sury.org+2» de «libpcre2-8-0:amd64»
+E: No se puede encontrar una fuente para descargar la versión «3.1-1ubuntu2.1» de «libsepol1:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.1.1l-1ubuntu1.2» de «libssl1.1:amd64»
+E: No se puede encontrar una fuente para descargar la versión «4.14+git20191112.9856751-1build1» de «crda:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.0-1» de «cuda-keyring:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.0-1» de «cudnn-local-repo-ubuntu2004-8.4.0.27:amd64»
+E: No se puede encontrar una fuente para descargar la versión «26.4.11-impish» de «galera-4:amd64»
+E: No se puede encontrar una fuente para descargar la versión «6.14-1» de «getmail:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.6.1-5+ubuntu21.10.1+deb.sury.org+1» de «libaprutil1:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.6.1-5+ubuntu21.10.1+deb.sury.org+1» de «libaprutil1-dbd-sqlite3:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.6.1-5+ubuntu21.10.1+deb.sury.org+1» de «libaprutil1-ldap:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1:9.0.1-16.1ubuntu1» de «libllvm9:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.10.0~rc.3-1» de «libnvidia-container-tools:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.10.0~rc.3-1» de «libnvidia-container1:amd64»
+E: No se puede encontrar una fuente para descargar la versión «10.39-3+ubuntu21.10.1+deb.sury.org+2» de «libpcre2-16-0:amd64»
+E: No se puede encontrar una fuente para descargar la versión «10.39-3+ubuntu21.10.1+deb.sury.org+2» de «libpcre2-32-0:amd64»
+E: No se puede encontrar una fuente para descargar la versión «515.43.04-0ubuntu1» de «libxnvctrl0:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1:10.5.15+maria~impish» de «mysql-common:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.10.0~rc.3-1» de «nvidia-container-toolkit:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.8.0~rc.1-1» de «nvidia-docker2:amd64»
+E: No se puede encontrar una fuente para descargar la versión «515.43.04-0ubuntu1» de «nvidia-settings:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1:1.10.13+submodules+notgz+2022032202-2+ubuntu21.10.1+deb.sury.org+1» de «php-pear:amd64»
+E: No se puede encontrar una fuente para descargar la versión «4.2.1-2~ppa~jammy1» de «dupeguru:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1:1.5.5-focal» de «goaccess:amd64»
+E: No se puede encontrar una fuente para descargar la versión «6:19.0.1-1~impish» de «kodi-inputstream-rtmp:amd64»
+E: No se puede encontrar una fuente para descargar la versión «6:19.0.8-1~impish» de «kodi-pvr-mythtv:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «libnvpair3:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «libuutil3:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «libzfs5:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «libzfs5-devel:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «libzpool5:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «python3-pyzfs:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «zfs:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «zfs-dkms:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «zfs-dracut:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «zfs-initramfs:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «zfs-test:amd64»
+E: No se puede encontrar una fuente para descargar la versión «10.39-3+ubuntu21.10.1+deb.sury.org+2» de «libpcre2-8-0:amd64»
+E: No se puede encontrar una fuente para descargar la versión «3.1-1ubuntu2.1» de «libsepol1:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.1.1l-1ubuntu1.2» de «libssl1.1:amd64»
+E: No se puede encontrar una fuente para descargar la versión «4.14+git20191112.9856751-1build1» de «crda:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.0-1» de «cuda-keyring:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.0-1» de «cudnn-local-repo-ubuntu2004-8.4.0.27:amd64»
+E: No se puede encontrar una fuente para descargar la versión «26.4.11-impish» de «galera-4:amd64»
+E: No se puede encontrar una fuente para descargar la versión «6.14-1» de «getmail:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.6.1-5+ubuntu21.10.1+deb.sury.org+1» de «libaprutil1:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.6.1-5+ubuntu21.10.1+deb.sury.org+1» de «libaprutil1-dbd-sqlite3:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.6.1-5+ubuntu21.10.1+deb.sury.org+1» de «libaprutil1-ldap:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1:9.0.1-16.1ubuntu1» de «libllvm9:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.10.0~rc.3-1» de «libnvidia-container-tools:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.10.0~rc.3-1» de «libnvidia-container1:amd64»
+E: No se puede encontrar una fuente para descargar la versión «10.39-3+ubuntu21.10.1+deb.sury.org+2» de «libpcre2-16-0:amd64»
+E: No se puede encontrar una fuente para descargar la versión «10.39-3+ubuntu21.10.1+deb.sury.org+2» de «libpcre2-32-0:amd64»
+E: No se puede encontrar una fuente para descargar la versión «515.43.04-0ubuntu1» de «libxnvctrl0:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1:10.5.15+maria~impish» de «mysql-common:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1.10.0~rc.3-1» de «nvidia-container-toolkit:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.8.0~rc.1-1» de «nvidia-docker2:amd64»
+E: No se puede encontrar una fuente para descargar la versión «515.43.04-0ubuntu1» de «nvidia-settings:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1:1.10.13+submodules+notgz+2022032202-2+ubuntu21.10.1+deb.sury.org+1» de «php-pear:amd64»
+E: No se puede encontrar una fuente para descargar la versión «4.2.1-2~ppa~jammy1» de «dupeguru:amd64»
+E: No se puede encontrar una fuente para descargar la versión «1:1.5.5-focal» de «goaccess:amd64»
+E: No se puede encontrar una fuente para descargar la versión «6:19.0.1-1~impish» de «kodi-inputstream-rtmp:amd64»
+E: No se puede encontrar una fuente para descargar la versión «6:19.0.8-1~impish» de «kodi-pvr-mythtv:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «libnvpair3:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «libuutil3:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «libzfs5:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «libzfs5-devel:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «libzpool5:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «python3-pyzfs:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «zfs:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «zfs-dkms:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «zfs-dracut:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «zfs-initramfs:amd64»
+E: No se puede encontrar una fuente para descargar la versión «2.1.99-1248» de «zfs-test:amd64»
+E: Error interno: no se pudo generar la lista de paquetes a descargar
+E: Quizá las listas de paquetes están desactualizadas, intente «aptitude update» (o equivalente); de otra forma algunos paquetes o versiones no están disponibles desde la fuente de repositorio actual
+xargs: aptitude: acabó con estado 255; abortando
