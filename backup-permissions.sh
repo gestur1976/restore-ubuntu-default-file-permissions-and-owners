@@ -10,6 +10,6 @@ while read line; do
 #	owngrp=$(echo "$line" | cut -d\; -f1)
 #	mod=$(echo "$line" | cut -d\; -f2)
 # 	ruta=$(echo "$line" | cut -d\; -f3 | cut -d/ -f2-)
- 	stat --format=%U:%G\;%a\;%n "$ruta" | tee -a "$BACKUPFILE"
+ 	stat --format=%U:%G\;%a\;%n "$line" | tee -a "$BACKUPFILE"
 done
 cd "$CURDIR"
