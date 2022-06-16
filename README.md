@@ -44,3 +44,39 @@ cd /tmp/restore-ubuntu-default-file-permissions-and-owners
 LIMITATIONS:
 
 It only repairs original package file and folder permissions. All new added files are left unchanged and need to be repaired manually.
+
+#Backup and restore permissions
+
+#backup-permissions.sh:
+
+It creates a backup of permissions and owners for all elements of a specified tree and stores them in a file so you'll be able to restore it later in case of disaster.
+
+Warning: It doesn't cross filesystem boundaries, so if you have mount points from another filesystems you'll need to backup them manually.
+
+Usage: ./backup-permissions.sh <base dir> <output file>
+
+  For example: ./backup-permissions.sh /usr ~/permissions-backup.txt
+  
+You'll get a file with the following format;
+  
+root:root;755;./bin/lessecho
+root:root;755;./bin/dh_gencontrol
+root:root;755;./bin/gsf-vba-dump
+root:root;755;./bin/fmt
+root:root;755;./bin/gunzip
+root:root;4755;./bin/jk_uchroot
+root:root;755;./bin/gamma4scanimage
+root:root;755;./bin/unar
+root:mail;2755;./bin/mlock
+root:root;755;./bin/cpan5.34-x86_64-linux-gnu
+root:root;755;./bin/evolution
+
+...
+  
+
+#restore-permissions.sh
+
+It restores a previously created permissions from a backup file to specified base folder. BE CAREFUL! Parameters order is inverse now.
+  
+  For example: ./restore-permissions.sh ~/permissions-backup.txt /usr
+  
