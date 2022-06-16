@@ -1,9 +1,10 @@
 # restore-ubuntu-default-file-permissions-and-owners
 
+# package-repair.sh
+
 DESCRIPTION:
 
-This will be a set of scripts to restore main file and folder permissions for a damaged Ubuntu installation.
-It also recovers most of accidentally deleted files by reinstalling all packages.
+This is a script to restore main file and folder permissions for a damaged Ubuntu installation in few minutes (2-10 min). Afther that it reinstalls all packages using aptitude to recover accidentally deleted package files and fixing any additional permission. This process takes much longer depending on the number of installed packages, but afther the first phase most of your installation works again.
 
 This script is intended to quickly restore Ubuntu functionality if you accidentally ran chmod -R or chown -R or rm -rf an entire tree
 (like /bin, /usr, /lib).
