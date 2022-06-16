@@ -45,9 +45,9 @@ LIMITATIONS:
 
 It only repairs original package file and folder permissions. All new added files are left unchanged and need to be repaired manually.
 
-#Backup and restore permissions
+# Backup and restore permissions
 
-#backup-permissions.sh:
+# backup-permissions.sh:
 
 It creates a backup of permissions and owners for all elements of a specified tree and stores them in a file so you'll be able to restore it later in case of disaster.
 
@@ -74,7 +74,7 @@ root:root;755;./bin/evolution
 ...
   
 
-#restore-permissions.sh
+# restore-permissions.sh
 
 It restores a previously created permissions from a backup file to specified base folder. BE CAREFUL! Parameters order is inverse now.
   
