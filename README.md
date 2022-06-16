@@ -60,15 +60,25 @@ Usage: ./backup-permissions.sh <base dir> <output file>
 You'll get a file with the following format;
   
 root:root;755;./bin/lessecho
+  
 root:root;755;./bin/dh_gencontrol
+  
 root:root;755;./bin/gsf-vba-dump
+  
 root:root;755;./bin/fmt
+  
 root:root;755;./bin/gunzip
+  
 root:root;4755;./bin/jk_uchroot
+  
 root:root;755;./bin/gamma4scanimage
+  
 root:root;755;./bin/unar
+  
 root:mail;2755;./bin/mlock
+  
 root:root;755;./bin/cpan5.34-x86_64-linux-gnu
+  
 root:root;755;./bin/evolution
 
 ...
