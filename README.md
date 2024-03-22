@@ -32,7 +32,7 @@ mount --rbinb /proc /mnt/proc
 mount --rbind /run /mnt/run
 
 
-Download and unpack file contents to a temporary folder inside /mnt (like /mnt/mnt)
+Download and unpack file contents to a temporary folder inside /mnt (like /mnt/tmp)
 
 chroot /mnt
 
